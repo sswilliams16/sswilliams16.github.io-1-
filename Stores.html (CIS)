@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<!-- 
+Course: CIS 181 WW1 
+ Name: Skyla Williams 
+Date: July 15, 2023
+ -->
+
+<title>Stores</title>
+   <link href="jpf_reset.css" rel="stylesheet" />
+   <link href="jpf_styles.css" rel="stylesheet" />
+   <link href="jpf_sudoku.css" rel="stylesheet" />
+<meta charset="utf-8">
+<style>
+        body {
+            background-color:#F0EAD6;
+        }
+      </style>
+</head>
+<body>
+<h2>Sudoku Stores</h2>
+<hr>
+<br>
+<p> The best prices are in the stores listed below</p>
+<img src="sudokuStores.gif" height="400" width="400" alt="Sudoku Stores"> <br>
+<br>
+<br>
+<a href="index.html">Go Home</a>
+</body>
+</html>

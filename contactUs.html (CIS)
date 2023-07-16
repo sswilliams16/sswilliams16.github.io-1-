@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<!--
+ Course: CIS 181 WW1 
+ Name: Skyla Williams 
+ Date: July 15, 2023 
+-->
+<title>Contact Us</title>
+<link href="jpf_reset.css" rel="stylesheet" />
+   <link href="jpf_styles.css" rel="stylesheet" />
+   <link href="jpf_sudoku.css" rel="stylesheet" />
+<meta charset="utf-8">
+<style>
+        body {
+            background-color: tan;
+        }
+       
+      </style>
+</head>
+<body>
+<h2>Contact Us</h2>
+<hr>
+<br>
+ <p>Enjoy the challenges of Our Sudoku Website latest games.<br>
+   If you want to become a premier customer please contact us.</p>
+<br>
+<ul class="contact-info">
+    <li>Sudoku Chicago Enterprises</li>
+    <li>8407 S Chicago Avenue</li>
+    <li>Justice, IL 60777</li>
+    <li>(773) 555-2531</li>
+</ul>
+<br>
+<img src="contact.png" height="200" width="200" alt="contact picture">
+<br>
+<br>
+<a href="index.html">Go Home</a>
+</body>
+</html>
